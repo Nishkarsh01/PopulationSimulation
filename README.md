@@ -4,9 +4,8 @@ This is a JavaFX program that simulates the growth of a population over time. Th
 
 ## Installation
 
-1. Make sure you have [Java](https://www.java.com/) installed on your computer.
-2. Download the `PopulationSimulation.jar` file from the [latest release](https://github.com/username/repo-name/releases/latest).
-3. Double-click the `PopulationSimulation.jar` file to run the program.
+1. Make sure you have [Java](https://www.java.com/) and javafx installed on your computer.
+2. Alternatively you can use Liberica jdk 11 (Full Version- comes with javaFx bundled).
 
 ## Usage
 
