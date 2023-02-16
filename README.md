@@ -16,7 +16,7 @@ This is a JavaFX program that simulates the growth of a population over time. Th
 
 ## Development
 
-1. Clone the repository: `git clone https://github.com/username/repo-name.git`.
+1. Clone the repository: `git clone https://github.com/Nishkarsh01/PopulationSimulation.git`.
 2. Open the project in your favorite Java IDE.
 3. Build and run the project.
 
